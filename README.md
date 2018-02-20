@@ -2,4 +2,4 @@
 
 Ping of death using simple while loops
 
-![alt text](hhttps://i.imgur.com/jpnmsB9.png)
+![alt text](https://i.imgur.com/jpnmsB9.png)
