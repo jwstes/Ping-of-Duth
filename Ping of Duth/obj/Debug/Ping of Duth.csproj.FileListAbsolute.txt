@@ -1,0 +1,9 @@
+C:\Users\Otter\source\repos\Ping of Duth\Ping of Duth\bin\Debug\Ping of Duth.exe.config
+C:\Users\Otter\source\repos\Ping of Duth\Ping of Duth\bin\Debug\Ping of Duth.exe
+C:\Users\Otter\source\repos\Ping of Duth\Ping of Duth\bin\Debug\Ping of Duth.pdb
+C:\Users\Otter\source\repos\Ping of Duth\Ping of Duth\obj\Debug\Ping_of_Duth.Form1.resources
+C:\Users\Otter\source\repos\Ping of Duth\Ping of Duth\obj\Debug\Ping_of_Duth.Properties.Resources.resources
+C:\Users\Otter\source\repos\Ping of Duth\Ping of Duth\obj\Debug\Ping of Duth.csproj.GenerateResource.Cache
+C:\Users\Otter\source\repos\Ping of Duth\Ping of Duth\obj\Debug\Ping of Duth.csproj.CoreCompileInputs.cache
+C:\Users\Otter\source\repos\Ping of Duth\Ping of Duth\obj\Debug\Ping of Duth.exe
+C:\Users\Otter\source\repos\Ping of Duth\Ping of Duth\obj\Debug\Ping of Duth.pdb
